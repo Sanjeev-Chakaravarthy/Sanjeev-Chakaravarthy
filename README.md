@@ -1,94 +1,129 @@
-<h1 align="center">Hi there, I'm Sanjeev Chakaravarthy 👋</h1>
+<h1 align="center">Hi 👋, I'm Sanjeev Chakaravarthy</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Frontend-Strong+Full-Stack+Developer+(MERN);Building+Real-World+Scalable+Products;Startup+Builder+%7C+Open+Source+Enthusiast;LPU+x+Kalvium+CSE+Student" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sanjeev-Chakaravarthy&color=blue&style=flat-square)  
-![GitHub followers](https://img.shields.io/github/followers/Sanjeev-Chakaravarthy?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/Sanjeev-Chakaravarthy?style=social)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjeev-Chakaravarthy&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Sanjeev-Chakaravarthy?style=social" />
+</p>
 
 ---
 
-## 🌟 **About Me**
-🚀 **Aspiring Full-Stack Developer** | 💡 **MongoDB Enthusiast** | 🔥 **Tech Explorer**  
-🎯 Focused on **Problem-Solving, Full-Stack Development, and Open Source**  
+## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science** at **LPU** in collaboration with **Kalvium**  
-- 🏆 Learning **MongoDB for Backend Development**  
-- 💻 Exploring **JavaScript, Data Structures & Algorithms**  
-- 🚀 Planning to dive into **MERN Stack soon!**  
-- 🎯 Passionate about **Backend Development & Scalable Systems**  
-- 🤖 Curious about **APIs, Databases, and Cloud Computing**  
+🎓 B.Tech CSE (Software Product Engineering) — **LPU x Kalvium**  
+💻 **Frontend-strong Full-Stack Developer (MERN)**  
+🎨 Passionate about building **clean, responsive & user-friendly interfaces**  
+🔧 Experienced in **backend systems & API design**  
+🌱 Currently exploring **Go, Redis, and Distributed Systems**
 
 ---
 
-<h2 align="center"> 🛠 **Tech Stack & Tools I Know ** 🚀</h2>
+## 🏢 Experience / Product Work
 
-## 📚 **Technologies I'm Currently Learning**  
-[![Mongoose](https://img.shields.io/badge/Mongoose-%238B0000.svg?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/) &nbsp; [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) &nbsp; [![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) &nbsp; [![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+### 🚀 WiBuilt *(Startup Project)*
 
+🔗 https://wibuilt.com  
 
- 
+> Building simple, practical digital solutions for schools to streamline operations and improve communication
 
-### 💻 **Languages & 🚀 Technologies I Known is :**  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; [![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) &nbsp; [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) &nbsp; [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
-
-
-### 🌐 **Frontend Basics**  
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp; [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-
-  
-
-### ⚡ **Tools & Version Control**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-  
+- Designing **intuitive frontend interfaces for real users**
+- Developing **scalable backend systems & APIs**
+- Working on **full-stack architecture & deployment**
+- Focused on **performance, usability & real-world impact**
 
 ---
 
-## 🔥 **GitHub Stats & Activity**  
+## 🚀 Projects
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sanjeev-Chakaravarthy&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeev-Chakaravarthy&theme=radical" />
-    </td>
-  </tr>
-</table>
+### 🏠 PG Finder
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Chakaravarthy&layout=compact&theme=radical)
+🔗 https://pg-finder-pink.vercel.app  
+
+> Full-stack platform to help students find PG accommodations based on budget and location
+
+- Built responsive UI using **React + Tailwind CSS**
+- Designed **user-friendly filtering & search experience**
+- Integrated **REST APIs with MongoDB backend**
+- Focused on **UX, performance & scalability**
 
 ---
 
-## 🚀 **Future Goals**  
-📌 **Master MongoDB & NoSQL Databases**  
-📌 **Build Scalable Backend Systems**  
-📌 **Learn Express.js & RESTful APIs**  
-📌 **Explore Full MERN Stack Development**  
+### 🔁 Skillfinix *(Ongoing)*
+
+🔗 https://skillfinix.vercel.app  
+
+> Peer-to-peer skill exchange platform with real-time communication
+
+- Building **modern UI with real-time interactions**
+- Implementing **chat, video calls & authentication**
+- Using **Socket.IO, WebRTC, JWT**
+- Focused on **interactive UX & system performance**
 
 ---
 
-## 🌍 **Let's get Connected to reach me out📫 !**  
+## 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-m-s-908188325/)  
+### 💻 Languages
+JavaScript • Python • C++ • Java • Go (Learning)
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev.ms28122@gmail.com)  
+### 🌐 Frontend (Strong Area 🚀)
+React • Redux • Tailwind CSS • HTML • CSS  
+Responsive Design • UI/UX Principles • Component-Based Architecture  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+### ⚙️ Backend & Databases
+Node.js • Express.js • MongoDB • REST APIs • Redis (Learning)
 
+### 🔧 Tools & Systems
+Git • GitHub • Linux • Postman • Docker (Learning)
 
 ---
 
+## 📊 GitHub Stats
 
-## 🙌 **Thanks for visiting my profile!**  
-Feel free to connect with me or check out my repositories. I'm always open to collaboration and learning opportunities. Let's build something amazing together! 🚀
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanjeev-Chakaravarthy&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanjeev-Chakaravarthy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+</p>
 
 ---
 
-🎯 **Happy coding!** 🚀
+## 🎯 Current Focus
+
+- Frontend Architecture & Performance Optimization  
+- Backend Engineering & API Design  
+- Redis (Caching, Pub/Sub, Performance)  
+- Go for Systems Programming  
+- Distributed Systems & Observability  
+- Open Source Contributions (LFX Ready)
+
+---
+
+## 🏆 Achievements
+
+🥈 Runner-up — Code-A-Hunt 2.0 (LPU)  
+🎓 Kalvium Industry Program Scholar  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanjeev-m-s-908188325/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sanjeev.ms28122@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Designing smooth user experiences • Building scalable systems • Shipping real products 🚀</b>
+</p>
