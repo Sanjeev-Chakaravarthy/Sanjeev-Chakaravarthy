@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 205" width="100%" height="auto" fill="none">
+  <defs>
+    <linearGradient id="pcard-bg-skillfinix" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#160D15" />
+      <stop offset="60%" stop-color="#100910" />
+      <stop offset="100%" stop-color="#0A070C" />
+    </linearGradient>
+    <linearGradient id="pcard-border-skillfinix" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#701A3D" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#2D111E" stop-opacity="0.8" />
+    </linearGradient>
+    <radialGradient id="pcard-glow-skillfinix" cx="10%" cy="10%" r="50%">
+      <stop offset="0%" stop-color="#F97316" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect x="1" y="1" width="438" height="203" rx="12" fill="url(#pcard-bg-skillfinix)" stroke="url(#pcard-border-skillfinix)" stroke-width="1.2" />
+  <rect x="1" y="1" width="438" height="203" rx="12" fill="url(#pcard-glow-skillfinix)" />
+
+  <!-- Accent Top Line -->
+  <line x1="24" y1="1" x2="100" y2="1" stroke="#F97316" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Header Category & Status -->
+  <g transform="translate(24, 22)">
+    <text x="0" y="13" fill="#F97316" font-size="9" font-weight="700" font-family="SF Mono, Menlo, monospace" letter-spacing="1">REAL-TIME MARKETPLACE // WEBSOCKETS</text>
+  </g>
+  
+        <g transform="translate(350, 20)">
+          <rect x="0" y="0" width="66" height="20" rx="10" fill="#12251B" stroke="#10B981" stroke-width="0.8" />
+          <circle cx="10" cy="10" r="3" fill="#10B981" />
+          <text x="22" y="13.5" fill="#A7F3D0" font-size="9" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif">LIVE APP</text>
+        </g>
+        
+
+  <!-- Project Title with Icon -->
+  <g transform="translate(24, 68)">
+    <g transform="translate(0, -18) scale(0.9)" stroke="#F97316" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+    </g>
+    <text x="32" y="0" fill="#FAF7F9" font-size="19" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.3">Skillfinix</text>
+  </g>
+
+  <!-- Short Description -->
+  <g transform="translate(24, 98)">
+    <text x="0" y="12" fill="#D1A3B8" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.1">
+      <tspan x="0" dy="0">Bidirectional peer skill exchange platform with real-time</tspan>
+      <tspan x="0" dy="17">Socket.io chat, WebRTC video calling, and JWT security.</tspan>
+    </text>
+  </g>
+
+  <!-- Tech Badges -->
+  
+        <g transform="translate(24, 162)">
+          <rect x="0" y="0" width="51.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="25.5" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">React</text>
+        </g>
+        
+
+        <g transform="translate(83.0, 162)">
+          <rect x="0" y="0" width="65.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="32.5" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">Node.js</text>
+        </g>
+        
+
+        <g transform="translate(156.0, 162)">
+          <rect x="0" y="0" width="79.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="39.5" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">Socket.io</text>
+        </g>
+        
+
+        <g transform="translate(243.0, 162)">
+          <rect x="0" y="0" width="58.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="29.0" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">WebRTC</text>
+        </g>
+        
+
+        <g transform="translate(309.0, 162)">
+          <rect x="0" y="0" width="37.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="18.5" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">JWT</text>
+        </g>
+        
+</svg>

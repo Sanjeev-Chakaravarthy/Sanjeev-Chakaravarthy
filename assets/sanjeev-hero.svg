@@ -1,0 +1,230 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 340" width="100%" height="auto" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="sh-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140A12" />
+      <stop offset="45%" stop-color="#0E080F" />
+      <stop offset="100%" stop-color="#09090B" />
+    </linearGradient>
+
+    <!-- Border Linear Gradient -->
+    <linearGradient id="sh-border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0.9" />
+      <stop offset="35%" stop-color="#701A3D" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#C77B9B" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#2E0D1B" stop-opacity="0.9" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient for Name -->
+    <linearGradient id="sh-name-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="40%" stop-color="#FAF7F9" />
+      <stop offset="85%" stop-color="#E5B5C7" />
+      <stop offset="100%" stop-color="#C77B9B" />
+    </linearGradient>
+
+    <!-- Laser Underline Gradient -->
+    <linearGradient id="sh-laser-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0" />
+      <stop offset="30%" stop-color="#701A3D" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#E5B5C7" stop-opacity="1" />
+      <stop offset="70%" stop-color="#701A3D" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#451126" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Moving Atmospheric Light Auras -->
+    <radialGradient id="sh-aura-1" cx="35%" cy="25%" r="65%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.32" />
+      <stop offset="60%" stop-color="#451126" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#09090B" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="sh-aura-2" cx="80%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#9E2B5A" stop-opacity="0.22" />
+      <stop offset="70%" stop-color="#701A3D" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#09090B" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Tag Pill Background -->
+    <linearGradient id="sh-pill-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#190F17" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#120A11" stop-opacity="0.7" />
+    </linearGradient>
+
+    <!-- Fine Background Grid -->
+    <pattern id="sh-grid-pattern" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#FAF7F9" stroke-width="0.7" stroke-opacity="0.035" />
+      <circle cx="28" cy="0" r="0.8" fill="#C77B9B" fill-opacity="0.18" />
+    </pattern>
+
+    <!-- Soft Glow Filter -->
+    <filter id="sh-soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes shPulse {
+        0%, 100% { opacity: 0.35; transform: scale(1); }
+        50% { opacity: 0.65; transform: scale(1.04); }
+      }
+      @keyframes shSweep {
+        0% { stroke-dashoffset: 450; }
+        100% { stroke-dashoffset: -450; }
+      }
+      @keyframes shRotateClockwise {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes shRotateCounter {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      @keyframes shBlink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+      .sh-ambient-pulse {
+        animation: shPulse 6s ease-in-out infinite;
+        transform-origin: center;
+      }
+      .sh-laser-sweep {
+        stroke-dasharray: 180 320;
+        animation: shSweep 4s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+      }
+      .sh-orbit-slow {
+        animation: shRotateClockwise 45s linear infinite;
+        transform-origin: 780px 170px;
+      }
+      .sh-orbit-reverse {
+        animation: shRotateCounter 35s linear infinite;
+        transform-origin: 780px 170px;
+      }
+      .sh-status-blink {
+        animation: shBlink 2.5s ease-in-out infinite;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .sh-ambient-pulse, .sh-laser-sweep, .sh-orbit-slow, .sh-orbit-reverse, .sh-status-blink {
+          animation: none !important;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Canvas Surface & Perimeter -->
+  <rect x="2" y="2" width="916" height="336" rx="14" fill="url(#sh-bg-grad)" stroke="url(#sh-border-grad)" stroke-width="1.4" />
+
+  <!-- Background Grid -->
+  <rect x="2" y="2" width="916" height="336" rx="14" fill="url(#sh-grid-pattern)" />
+
+  <!-- Dynamic Atmospheric Light Layers -->
+  <rect x="2" y="2" width="916" height="336" rx="14" fill="url(#sh-aura-1)" class="sh-ambient-pulse" />
+  <rect x="2" y="2" width="916" height="336" rx="14" fill="url(#sh-aura-2)" />
+
+  <!-- Technical Corner Brackets / Precision Registration Marks -->
+  <g stroke="#701A3D" stroke-width="1.4" fill="none" opacity="0.85">
+    <!-- Top Left -->
+    <path d="M 16 28 L 16 16 L 28 16" />
+    <path d="M 20 20 L 24 20" stroke="#C77B9B" stroke-width="1" />
+    <!-- Top Right -->
+    <path d="M 904 28 L 904 16 L 892 16" />
+    <path d="M 900 20 L 896 20" stroke="#C77B9B" stroke-width="1" />
+    <!-- Bottom Left -->
+    <path d="M 16 312 L 16 324 L 28 324" />
+    <!-- Bottom Right -->
+    <path d="M 904 312 L 904 324 L 892 324" />
+  </g>
+
+  <!-- Technical Astrolabe / Orbital Ring Geometry in Background (Right) -->
+  <g class="sh-orbit-slow" opacity="0.35">
+    <circle cx="780" cy="170" r="115" stroke="#701A3D" stroke-width="1" stroke-dasharray="6 8" fill="none" />
+    <circle cx="780" cy="170" r="135" stroke="#451126" stroke-width="0.8" stroke-dasharray="2 12" fill="none" />
+    <circle cx="895" cy="170" r="3.5" fill="#C77B9B" />
+    <circle cx="665" cy="170" r="2.5" fill="#E5B5C7" />
+  </g>
+  <g class="sh-orbit-reverse" opacity="0.25">
+    <circle cx="780" cy="170" r="85" stroke="#C77B9B" stroke-width="0.8" stroke-dasharray="4 6" fill="none" />
+    <line x1="695" y1="170" x2="865" y2="170" stroke="#701A3D" stroke-width="0.7" stroke-dasharray="2 8" />
+    <line x1="780" y1="85" x2="780" y2="255" stroke="#701A3D" stroke-width="0.7" stroke-dasharray="2 8" />
+  </g>
+
+  <!-- Top Status Bar & Metadata Telemetry -->
+  <g transform="translate(42, 42)">
+    <!-- Active Status Indicator Badge -->
+    <rect x="0" y="0" width="220" height="24" rx="12" fill="#180C14" stroke="#451126" stroke-width="1" />
+    <circle cx="14" cy="12" r="3.8" fill="#4ADE80" class="sh-status-blink" />
+    <text x="26" y="15.5" fill="#FAF7F9" font-size="10" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.8">AVAILABLE FOR OPPORTUNITIES</text>
+
+    <!-- Engineering Scholar Identifier -->
+    <text x="240" y="15.5" fill="#C77B9B" font-size="10.5" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.5">B.TECH CSE (SPE) // LPU × KALVIUM</text>
+
+    <!-- Right-aligned Tech Telemetry -->
+    <text x="836" y="15.5" fill="#7E6072" font-size="10" font-family="SF Mono, Menlo, Courier, monospace" text-anchor="end" letter-spacing="0.5">[ 31.25°N, 75.70°E ] • PORTFOLIO 2024–2028</text>
+  </g>
+
+  <!-- Main Hero Title & Identity -->
+  <g transform="translate(42, 136)">
+    <!-- Decorative Pre-title -->
+    <text x="0" y="-8" fill="#C77B9B" font-size="11" font-weight="600" font-family="SF Mono, Menlo, Courier, monospace" letter-spacing="3">HELLO, WORLD. I AM</text>
+    
+    <!-- Large Name -->
+    <text x="0" y="46" fill="url(#sh-name-grad)" font-size="44" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="1.5">SANJEEV CHAKARAVARTHY</text>
+  </g>
+
+  <!-- Animated High-Tech Laser Underline -->
+  <g transform="translate(42, 202)">
+    <!-- Base track -->
+    <line x1="0" y1="0" x2="680" y2="0" stroke="#2D111E" stroke-width="1.5" />
+    <!-- Dynamic glowing sweep line -->
+    <line x1="0" y1="0" x2="680" y2="0" stroke="url(#sh-laser-grad)" stroke-width="2.2" class="sh-laser-sweep" filter="url(#sh-soft-glow)" />
+    <!-- Precision terminus marker -->
+    <circle cx="682" cy="0" r="2.5" fill="#C77B9B" />
+  </g>
+
+  <!-- Professional Positioning Subtitle -->
+  <g transform="translate(42, 235)">
+    <text x="0" y="0" fill="#E5B5C7" font-size="14" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="1.2">
+      FULL STACK DEVELOPER
+      <tspan fill="#701A3D">  •  </tspan>
+      SOFTWARE ENGINEER
+      <tspan fill="#701A3D">  •  </tspan>
+      CREATIVE TECHNOLOGIST
+      <tspan fill="#701A3D">  •  </tspan>
+      AI/ML ENTHUSIAST
+    </text>
+  </g>
+
+  <!-- Technical Competency Badges / Capabilities (Bottom Row) -->
+  <g transform="translate(42, 268)">
+    <!-- Pill 1: Full-Stack MERN & Next.js -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="186" height="28" rx="6" fill="url(#sh-pill-bg)" stroke="#451126" stroke-width="1" />
+      <circle cx="14" cy="14" r="2.5" fill="#C77B9B" />
+      <text x="26" y="17.5" fill="#FAF7F9" font-size="11" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.3">MERN &amp; Next.js 15</text>
+    </g>
+
+    <!-- Pill 2: Real-Time & WebSockets -->
+    <g transform="translate(196, 0)">
+      <rect x="0" y="0" width="194" height="28" rx="6" fill="url(#sh-pill-bg)" stroke="#451126" stroke-width="1" />
+      <circle cx="14" cy="14" r="2.5" fill="#C77B9B" />
+      <text x="26" y="17.5" fill="#FAF7F9" font-size="11" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.3">Socket.IO &amp; WebSockets</text>
+    </g>
+
+    <!-- Pill 3: Creative 3D & WebGL -->
+    <g transform="translate(400, 0)">
+      <rect x="0" y="0" width="198" height="28" rx="6" fill="url(#sh-pill-bg)" stroke="#451126" stroke-width="1" />
+      <circle cx="14" cy="14" r="2.5" fill="#C77B9B" />
+      <text x="26" y="17.5" fill="#FAF7F9" font-size="11" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.3">Three.js &amp; 3D Visualizers</text>
+    </g>
+
+    <!-- Pill 4: Secure Distributed Architecture -->
+    <g transform="translate(608, 0)">
+      <rect x="0" y="0" width="228" height="28" rx="6" fill="url(#sh-pill-bg)" stroke="#451126" stroke-width="1" />
+      <circle cx="14" cy="14" r="2.5" fill="#C77B9B" />
+      <text x="26" y="17.5" fill="#FAF7F9" font-size="11" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.3">Secure High-Scale Architecture</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 205" width="100%" height="auto" fill="none">
+  <defs>
+    <linearGradient id="pcard-bg-verio" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#160D15" />
+      <stop offset="60%" stop-color="#100910" />
+      <stop offset="100%" stop-color="#0A070C" />
+    </linearGradient>
+    <linearGradient id="pcard-border-verio" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#701A3D" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#2D111E" stop-opacity="0.8" />
+    </linearGradient>
+    <radialGradient id="pcard-glow-verio" cx="10%" cy="10%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect x="1" y="1" width="438" height="203" rx="12" fill="url(#pcard-bg-verio)" stroke="url(#pcard-border-verio)" stroke-width="1.2" />
+  <rect x="1" y="1" width="438" height="203" rx="12" fill="url(#pcard-glow-verio)" />
+
+  <!-- Accent Top Line -->
+  <line x1="24" y1="1" x2="100" y2="1" stroke="#A855F7" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Header Category & Status -->
+  <g transform="translate(24, 22)">
+    <text x="0" y="13" fill="#A855F7" font-size="9" font-weight="700" font-family="SF Mono, Menlo, monospace" letter-spacing="1">HIGH-ASSURANCE // FINTECH ENGINE</text>
+  </g>
+  
+        <g transform="translate(350, 20)">
+          <rect x="0" y="0" width="66" height="20" rx="10" fill="#12251B" stroke="#10B981" stroke-width="0.8" />
+          <circle cx="10" cy="10" r="3" fill="#10B981" />
+          <text x="22" y="13.5" fill="#A7F3D0" font-size="9" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif">LIVE APP</text>
+        </g>
+        
+
+  <!-- Project Title with Icon -->
+  <g transform="translate(24, 68)">
+    <g transform="translate(0, -18) scale(0.9)" stroke="#A855F7" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+    </g>
+    <text x="32" y="0" fill="#FAF7F9" font-size="19" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.3">Verio</text>
+  </g>
+
+  <!-- Short Description -->
+  <g transform="translate(24, 98)">
+    <text x="0" y="12" fill="#D1A3B8" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" letter-spacing="0.1">
+      <tspan x="0" dy="0">Workspace-isolated financial transaction extractor parsing</tspan>
+      <tspan x="0" dy="17">raw bank SMS &amp; statements into structured double-entry ledgers.</tspan>
+    </text>
+  </g>
+
+  <!-- Tech Badges -->
+  
+        <g transform="translate(24, 162)">
+          <rect x="0" y="0" width="86.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="43.0" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">Next.js 15</text>
+        </g>
+        
+
+        <g transform="translate(118.0, 162)">
+          <rect x="0" y="0" width="44.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="22.0" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">Hono</text>
+        </g>
+        
+
+        <g transform="translate(170.0, 162)">
+          <rect x="0" y="0" width="107.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="53.5" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">Neon Postgres</text>
+        </g>
+        
+
+        <g transform="translate(285.0, 162)">
+          <rect x="0" y="0" width="58.0" height="22" rx="5" fill="#1C1019" stroke="#3D1828" stroke-width="0.8" />
+          <text x="29.0" y="14.5" fill="#C77B9B" font-size="10" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="middle">Prisma</text>
+        </g>
+        
+</svg>
