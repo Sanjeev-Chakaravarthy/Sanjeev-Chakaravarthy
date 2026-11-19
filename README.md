@@ -55,43 +55,50 @@ I design and build interactive web products and **3D / spatial interfaces**, com
 
 ## Kalvium Student Showcase
 
-### 1. Skillfinix — Skill Exchange Platform
-Peer-to-peer skill exchange platform built for sharing knowledge and collaborating on skills.
-
-- **Live:** https://skillfinix.vercel.app/welcome
-- **GitHub:** https://github.com/Sanjeev-Chakaravarthy/Skillfinix
-- **Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Socket.io, Supabase
-
-### 2. Verio — Secure Financial Extraction
-Focused on financial statement extraction and structured transaction processing.
-
-- **Live:** https://verio-secure-financial-extraction-v-kappa.vercel.app
-- **GitHub:** *Not provided*
-- **Focus:** Financial statement extraction and structured transaction processing
-
-### 3. Atelier — Premium Productivity Workspace
-Productivity workspace built with a focus on interface craft and smooth motion.
-
-- **GitHub:** https://github.com/Sanjeev-Chakaravarthy/Atelier
-- **Live:** *Not provided*
-- **Stack:** React, Vite, Tailwind CSS, Framer Motion, Node.js, Express, MongoDB
-
-### 4. LeadDesk Mini — Agency Lead Management
-Agency lead management application built with a modern full-stack TypeScript setup.
-
-- **Live:** https://lead-desk-mini-gray.vercel.app/
-- **GitHub:** https://github.com/Sanjeev-Chakaravarthy/LeadDesk-Mini
-- **Stack:** Next.js 15, TypeScript, Tailwind CSS, MongoDB, Prisma, BetterAuth
-
-### 5. StreamLens — Streaming Analytics Dashboard
-Streaming analytics dashboard for exploring viewer and engagement metrics.
-
-- **Live:** https://streamlens-team.streamlit.app/
-- **GitHub:** https://github.com/Sanjeev-Chakaravarthy/team03-65
-- **Stack:** Python, Streamlit, Pandas, SQL and SQLite
-- **Note:** Viewer-behaviour data is synthetic, not real-world user data.
-
-**[GitHub Profile](https://github.com/Sanjeev-Chakaravarthy)**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix"><img src="assets/showcase-skillfinix.svg" alt="Skillfinix project card" width="100%" /></a>
+      <h3>Skillfinix — Skill Exchange Platform</h3>
+      <p>Peer-to-peer skill exchange platform built for sharing knowledge and collaborating on skills.</p>
+      <p><a href="https://skillfinix.vercel.app/welcome">Live app</a> · <a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix">GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://verio-secure-financial-extraction-v-kappa.vercel.app"><img src="assets/showcase-verio.svg" alt="Verio project card" width="100%" /></a>
+      <h3>Verio — Secure Financial Extraction</h3>
+      <p>Focused on financial statement extraction and structured transaction processing.</p>
+      <p><a href="https://verio-secure-financial-extraction-v-kappa.vercel.app">Live app</a> · <i>GitHub not provided</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sanjeev-Chakaravarthy/Atelier"><img src="assets/showcase-atelier.svg" alt="Atelier project card" width="100%" /></a>
+      <h3>Atelier — Premium Productivity Workspace</h3>
+      <p>Productivity workspace built with a focus on interface craft and smooth motion.</p>
+      <p><a href="https://github.com/Sanjeev-Chakaravarthy/Atelier">GitHub</a> · <i>Live app not provided</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sanjeev-Chakaravarthy/LeadDesk-Mini"><img src="assets/showcase-leaddesk.svg" alt="LeadDesk Mini project card" width="100%" /></a>
+      <h3>LeadDesk Mini — Agency Lead Management</h3>
+      <p>Agency lead management application built with a modern full-stack TypeScript setup.</p>
+      <p><a href="https://lead-desk-mini-gray.vercel.app/">Live app</a> · <a href="https://github.com/Sanjeev-Chakaravarthy/LeadDesk-Mini">GitHub</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sanjeev-Chakaravarthy/team03-65"><img src="assets/showcase-streamlens.svg" alt="StreamLens project card" width="100%" /></a>
+      <h3>StreamLens — Streaming Analytics Dashboard</h3>
+      <p>Streaming analytics dashboard for exploring viewer and engagement metrics.</p>
+      <p><a href="https://streamlens-team.streamlit.app/">Live app</a> · <a href="https://github.com/Sanjeev-Chakaravarthy/team03-65">GitHub</a></p>
+      <p><small>Viewer-behaviour data is synthetic, not real-world user data.</small></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More experiments coming soon</h3>
+      <p>Exploring product engineering, interactive 3D interfaces, and data-rich experiences.</p>
+      <p><a href="https://github.com/Sanjeev-Chakaravarthy">View GitHub profile</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Education
 
