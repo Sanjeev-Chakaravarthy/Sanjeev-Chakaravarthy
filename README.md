@@ -135,18 +135,16 @@ PRODUCT THINKING  +  CLEAN ARCHITECTURE  +  SHIPPED EXPERIENCES
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanjeev-Chakaravarthy&show_icons=true&title_color=C77B9B&text_color=C9C9D3&icon_color=C77B9B&bg_color=09090B&border_color=451126&hide_border=false" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sanjeev-Chakaravarthy&layout=compact&title_color=C77B9B&text_color=C9C9D3&bg_color=09090B&border_color=451126&hide_border=false" width="49%" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanjeev-Chakaravarthy&theme=dark&background=09090B&border=451126&stroke=701A3D&ring=C77B9B&fire=C77B9B&currStreakNum=FAF7F9&sideNums=FAF7F9&currStreakLabel=C77B9B&sideLabels=C77B9B&dates=FAF7F9" width="97%" alt="GitHub streak" />
-</div>
-
-<div align="center">
   <a href="https://github.com/Sanjeev-Chakaravarthy">
     <img src="assets/sanjeev-contributions.svg" alt="GitHub contribution activity" width="100%" />
   </a>
+</div>
+
+<div align="center">
+
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-451126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeev-Chakaravarthy?tab=repositories)
+[![Followers](https://img.shields.io/badge/Follow-Sanjeev_C-09090B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeev-Chakaravarthy)
+
 </div>
 
 ## Let's Build
