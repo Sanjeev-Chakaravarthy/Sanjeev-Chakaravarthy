@@ -76,14 +76,20 @@ PRODUCT THINKING  +  CLEAN ARCHITECTURE  +  SHIPPED EXPERIENCES
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Skillfinix <a href="https://skillfinix.vercel.app"><img alt="Live app" src="https://img.shields.io/badge/LIVE_APP-451126?style=flat-square&logo=vercel&logoColor=white" /></a></h3>
+      <a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix">
+        <img src="assets/card-skillfinix.svg" alt="Skillfinix" width="100%" />
+      </a>
+      <h3>Skillfinix</h3>
       <p><i>Collaborative peer-to-peer skill exchange</i></p>
       <p>Algorithmic skill matching, real-time chat, and WebRTC sessions in a focused learning marketplace.</p>
       <p><b>React · Node.js · MongoDB · Socket.IO · WebRTC</b></p>
       <p><a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix">Repository</a> · <a href="https://skillfinix.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>PG Finder <a href="https://pg-finder-pink.vercel.app"><img alt="Live app" src="https://img.shields.io/badge/LIVE_APP-451126?style=flat-square&logo=vercel&logoColor=white" /></a></h3>
+      <a href="https://github.com/Sanjeev-Chakaravarthy/PG-Finder">
+        <img src="assets/card-pgfinder.svg" alt="PG Finder" width="100%" />
+      </a>
+      <h3>PG Finder</h3>
       <p><i>Student accommodation discovery</i></p>
       <p>A broker-free accommodation platform for finding verified PGs by location, price, and amenities.</p>
       <p><b>React · Express · MongoDB · REST APIs · Tailwind</b></p>
@@ -92,15 +98,21 @@ PRODUCT THINKING  +  CLEAN ARCHITECTURE  +  SHIPPED EXPERIENCES
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Verio <a href="https://verio-secure-financial-extraction-v.vercel.app"><img alt="Live app" src="https://img.shields.io/badge/LIVE_APP-451126?style=flat-square&logo=vercel&logoColor=white" /></a></h3>
+      <a href="https://github.com/Sanjeev-Chakaravarthy/Verio-Secure-Financial-Extraction-Verification">
+        <img src="assets/card-verio.svg" alt="Verio" width="100%" />
+      </a>
+      <h3>Verio</h3>
       <p><i>Secure financial transaction extraction</i></p>
       <p>Workspace-isolated transaction parsing with confidence scoring and database-enforced tenant isolation.</p>
       <p><b>Next.js · TypeScript · Hono · PostgreSQL · Prisma</b></p>
       <p><a href="https://github.com/Sanjeev-Chakaravarthy/Verio-Secure-Financial-Extraction-Verification">Repository</a> · <a href="https://verio-secure-financial-extraction-v.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>WIBUILT <a href="https://wibuilt.com"><img alt="Live app" src="https://img.shields.io/badge/LIVE_APP-451126?style=flat-square&logo=safari&logoColor=white" /></a></h3>
-      <p><i>Creative WebGL &amp; 3D studio</i></p>
+      <a href="https://wibuilt.com">
+        <img src="assets/card-wibuilt.svg" alt="WIBUILT" width="100%" />
+      </a>
+      <h3>WIBUILT</h3>
+      <p><i>Creative WebGL & 3D studio</i></p>
       <p>Adaptive Three.js experiences with GPU-aware rendering pipelines and fluid 60fps interactions.</p>
       <p><b>Next.js · Three.js · React · TypeScript · Framer Motion</b></p>
       <p><a href="https://wibuilt.com">Live studio</a> · <i>Private client repository</i></p>
@@ -129,9 +141,10 @@ PRODUCT THINKING  +  CLEAN ARCHITECTURE  +  SHIPPED EXPERIENCES
 </div>
 
 <div align="center">
-  <a href="https://github.com/Sanjeev-Chakaravarthy?tab=repositories"><b>Repositories</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Sanjeev-Chakaravarthy"><b>GitHub Profile</b></a>
+
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-451126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeev-Chakaravarthy?tab=repositories)
+[![Followers](https://img.shields.io/badge/Follow-Sanjeev_C-09090B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeev-Chakaravarthy)
+
 </div>
 
 ## Let's Build
