@@ -10,27 +10,9 @@
 
 </div>
 
-## About
+## 3D & Spatial Design + Full-Stack Engineering
 
-**Software Product Engineering student** at **Lovely Professional University × Kalvium**, building thoughtful digital products across the full stack.
-
-I work across **React / Next.js**, **TypeScript**, **Node.js**, **Python**, and **PostgreSQL / MongoDB**—with a strong interest in scalable APIs, secure systems, real-time experiences, and interactive 3D interfaces.
-
-```text
-PRODUCT THINKING  +  CLEAN ARCHITECTURE  +  SHIPPED EXPERIENCES
-```
-
-<details>
-<summary><b>What I engineer</b></summary>
-
-- End-to-end web applications with type-safe, modular architectures
-- Responsive interfaces focused on performance and accessibility
-- REST APIs, authentication systems, and real-time communication
-- Relational and document data models with careful indexing
-- Interactive WebGL experiences with adaptive rendering
-- Open-source tools and distributed systems experiments
-
-</details>
+I design and build interactive web products and **3D / spatial interfaces**, combining clean frontend motion, shader/3D workflows, and reliable full-stack architectures across React, Next.js, TypeScript, Node.js, Python, and SQL/NoSQL databases.
 
 ## Technology
 
@@ -71,54 +53,45 @@ PRODUCT THINKING  +  CLEAN ARCHITECTURE  +  SHIPPED EXPERIENCES
 
 </div>
 
-## Featured Work
+## Kalvium Student Showcase
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix">
-        <img src="assets/card-skillfinix.svg" alt="Skillfinix" width="100%" />
-      </a>
-      <h3>Skillfinix</h3>
-      <p><i>Collaborative peer-to-peer skill exchange</i></p>
-      <p>Algorithmic skill matching, real-time chat, and WebRTC sessions in a focused learning marketplace.</p>
-      <p><b>React · Node.js · MongoDB · Socket.IO · WebRTC</b></p>
-      <p><a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix">Repository</a> · <a href="https://skillfinix.vercel.app">Live demo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Sanjeev-Chakaravarthy/PG-Finder">
-        <img src="assets/card-pgfinder.svg" alt="PG Finder" width="100%" />
-      </a>
-      <h3>PG Finder</h3>
-      <p><i>Student accommodation discovery</i></p>
-      <p>A broker-free accommodation platform for finding verified PGs by location, price, and amenities.</p>
-      <p><b>React · Express · MongoDB · REST APIs · Tailwind</b></p>
-      <p><a href="https://github.com/Sanjeev-Chakaravarthy/PG-Finder">Repository</a> · <a href="https://pg-finder-pink.vercel.app">Live demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Sanjeev-Chakaravarthy/Verio-Secure-Financial-Extraction-Verification">
-        <img src="assets/card-verio.svg" alt="Verio" width="100%" />
-      </a>
-      <h3>Verio</h3>
-      <p><i>Secure financial transaction extraction</i></p>
-      <p>Workspace-isolated transaction parsing with confidence scoring and database-enforced tenant isolation.</p>
-      <p><b>Next.js · TypeScript · Hono · PostgreSQL · Prisma</b></p>
-      <p><a href="https://github.com/Sanjeev-Chakaravarthy/Verio-Secure-Financial-Extraction-Verification">Repository</a> · <a href="https://verio-secure-financial-extraction-v.vercel.app">Live demo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://wibuilt.com">
-        <img src="assets/card-wibuilt.svg" alt="WIBUILT" width="100%" />
-      </a>
-      <h3>WIBUILT</h3>
-      <p><i>Creative WebGL & 3D studio</i></p>
-      <p>Adaptive Three.js experiences with GPU-aware rendering pipelines and fluid 60fps interactions.</p>
-      <p><b>Next.js · Three.js · React · TypeScript · Framer Motion</b></p>
-      <p><a href="https://wibuilt.com">Live studio</a> · <i>Private client repository</i></p>
-    </td>
-  </tr>
-</table>
+### 1. Skillfinix — Skill Exchange Platform
+Peer-to-peer skill exchange platform built for sharing knowledge and collaborating on skills.
+
+- **Live:** https://skillfinix.vercel.app/welcome
+- **GitHub:** https://github.com/Sanjeev-Chakaravarthy/Skillfinix
+- **Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Socket.io, Supabase
+
+### 2. Verio — Secure Financial Extraction
+Focused on financial statement extraction and structured transaction processing.
+
+- **Live:** https://verio-secure-financial-extraction-v-kappa.vercel.app
+- **GitHub:** *Not provided*
+- **Focus:** Financial statement extraction and structured transaction processing
+
+### 3. Atelier — Premium Productivity Workspace
+Productivity workspace built with a focus on interface craft and smooth motion.
+
+- **GitHub:** https://github.com/Sanjeev-Chakaravarthy/Atelier
+- **Live:** *Not provided*
+- **Stack:** React, Vite, Tailwind CSS, Framer Motion, Node.js, Express, MongoDB
+
+### 4. LeadDesk Mini — Agency Lead Management
+Agency lead management application built with a modern full-stack TypeScript setup.
+
+- **Live:** https://lead-desk-mini-gray.vercel.app/
+- **GitHub:** https://github.com/Sanjeev-Chakaravarthy/LeadDesk-Mini
+- **Stack:** Next.js 15, TypeScript, Tailwind CSS, MongoDB, Prisma, BetterAuth
+
+### 5. StreamLens — Streaming Analytics Dashboard
+Streaming analytics dashboard for exploring viewer and engagement metrics.
+
+- **Live:** https://streamlens-team.streamlit.app/
+- **GitHub:** https://github.com/Sanjeev-Chakaravarthy/team03-65
+- **Stack:** Python, Streamlit, Pandas, SQL and SQLite
+- **Note:** Viewer-behaviour data is synthetic, not real-world user data.
+
+**[GitHub Profile](https://github.com/Sanjeev-Chakaravarthy)**
 
 ## Education
 
