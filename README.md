@@ -142,34 +142,6 @@ A curated selection of real-world products, architecture experiments, and produc
       🔗 <b>Links:</b> <a href="https://wibuilt.com">Studio Website (Live)</a> • <i>Client Repository (Private)</i>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kalviumcommunity/S65_Tickify">
-        <img src="assets/card-tickify.svg" alt="Tickify — Productivity & Velocity Dashboard" width="100%" />
-      </a>
-      <br/>
-      <b>Tickify</b> • <i>Task Management Dashboard &amp; Productivity Velocity Analytics</i>
-      <br/><br/>
-      Interactive task workspace calculating completion velocity, priority weighting matrices, and visual accountability logs for disciplined daily execution.
-      <br/><br/>
-      <b>Stack:</b> React, Node.js, Express.js, MongoDB, Tailwind CSS, Chakra UI  
-      <br/>
-      🔗 <b>Links:</b> <a href="https://github.com/kalviumcommunity/S65_Tickify">GitHub Repository</a> • <a href="https://s65-tickify.vercel.app">Live Application</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Sanjeev-Chakaravarthy/HealthScan-AI">
-        <img src="assets/card-healthscan.svg" alt="HealthScan AI — Clinical Triage Engine" width="100%" />
-      </a>
-      <br/>
-      <b>HealthScan AI</b> • <i>Intelligent Health Diagnosis &amp; Preliminary Triage Assistant</i>
-      <br/><br/>
-      AI-driven diagnostic prototype analyzing symptom clusters and health biomarkers to provide structured preliminary clinical triage evaluations.
-      <br/><br/>
-      <b>Stack:</b> Python, Machine Learning Models, FastAPI, React, RESTful Services  
-      <br/>
-      🔗 <b>Links:</b> <a href="https://github.com/Sanjeev-Chakaravarthy/HealthScan-AI">GitHub Repository</a> • <i>Research &amp; Active Development</i>
-    </td>
-  </tr>
 </table>
 
 <br/>
