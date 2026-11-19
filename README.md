@@ -1,243 +1,162 @@
 <div align="center">
+  <img src="assets/sanjeev-hero.svg" alt="Sanjeev Chakaravarthy — Software Engineer" width="100%" />
+</div>
 
-<!-- 01. ANIMATED HERO BANNER -->
-<img src="assets/sanjeev-hero.svg" alt="Sanjeev Chakaravarthy — Portfolio Hero Banner" width="100%" />
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-wibuilt.com-C77B9B?style=for-the-badge&logo=safari&logoColor=white)](https://wibuilt.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-451126?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-m-s-908188325/)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-E5B5C7?style=for-the-badge&logo=gmail&logoColor=09090B)](mailto:sanjeev.ms28122@gmail.com)
 
 </div>
 
-<br/>
+## About
 
-<!-- 02. INTRODUCTION / ABOUT ME -->
-## ✦ About Me
+**Software Product Engineering student** at **Lovely Professional University × Kalvium**, building thoughtful digital products across the full stack.
 
-I am a **Software Product Engineering & Computer Science scholar** at **Lovely Professional University × Kalvium** (Batch of 2024–2028), focused on building high-performance web applications, interactive 3D digital experiences, and scalable backend architecture.
+I work across **React / Next.js**, **TypeScript**, **Node.js**, **Python**, and **PostgreSQL / MongoDB**—with a strong interest in scalable APIs, secure systems, real-time experiences, and interactive 3D interfaces.
 
-My approach to engineering combines clean, responsive frontend systems with resilient API backends and data layer design:
-* **Full-Stack Application Development**: Designing end-to-end applications with modular architecture, strict type safety, and production observability.
-* **Frontend Engineering**: Crafting intuitive interfaces using React, Next.js 15, and Tailwind CSS with a relentless focus on performance, accessibility, and user feedback.
-* **Backend Systems & APIs**: Building robust REST endpoints and micro-handlers with Node.js, Express, Hono, and secure session management.
-* **Database & Data Architecture**: Designing normalized schemas, optimized query indexes, and multi-tenant isolation across MongoDB and PostgreSQL.
-* **Creative & Spatial Computing**: Implementing interactive WebGL/Three.js 3D viewers with dynamic GPU tier profiling and fluid 60fps animations.
-* **AI-Powered Product Engineering**: Experimenting with diagnostic AI models, intelligent transaction parsers, and machine learning triage pipelines.
-* **Open-Source & Systems Exploration**: Actively contributing, studying distributed systems, Redis caching topologies, and Go for systems programming.
+```text
+PRODUCT THINKING  +  CLEAN ARCHITECTURE  +  SHIPPED EXPERIENCES
+```
 
-> *"Engineering digital products through disciplined architecture, intentional experimentation, and thoughtful design."*
+<details>
+<summary><b>What I engineer</b></summary>
 
-<br/>
+- End-to-end web applications with type-safe, modular architectures
+- Responsive interfaces focused on performance and accessibility
+- REST APIs, authentication systems, and real-time communication
+- Relational and document data models with careful indexing
+- Interactive WebGL experiences with adaptive rendering
+- Open-source tools and distributed systems experiments
 
-<!-- 03. TECHNICAL SKILLS -->
-## 🛠 Technical Expertise
+</details>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Languages &amp; Core</h4>
-      <ul>
-        <li><b>JavaScript (ES6+)</b> • Asynchronous patterns, DOM, event loops, modern standards</li>
-        <li><b>TypeScript</b> • Strict typing, generics, interfaces, modular architectures</li>
-        <li><b>Python</b> • Scripting, data analysis, ML experimentation, FastAPI</li>
-        <li><b>Java &amp; C++</b> • Object-oriented programming, data structures, algorithms</li>
-        <li><b>SQL</b> • Relational querying, joins, constraints, migrations</li>
-        <li><b>Go</b> • <i>(Actively exploring)</i> Systems programming &amp; microservices</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Frontend Architecture</h4>
-      <ul>
-        <li><b>React.js &amp; Next.js 15</b> • Server Components, hooks, routing, SSR/SSG</li>
-        <li><b>Tailwind CSS &amp; Chakra UI</b> • Mobile-first responsive design, modern design tokens</li>
-        <li><b>HTML5 &amp; CSS3</b> • Semantic markup, CSS grid/flexbox, animations</li>
-        <li><b>Framer Motion</b> • Layout animations, physics-based transitions</li>
-        <li><b>State Management</b> • Redux Toolkit, Context API, Zustand</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend &amp; Distributed Systems</h4>
-      <ul>
-        <li><b>Node.js &amp; Express.js</b> • Scalable RESTful API architecture, middleware</li>
-        <li><b>Hono</b> • Ultra-fast edge micro-handlers &amp; serverless functions</li>
-        <li><b>WebSockets (Socket.IO)</b> • Real-time duplex channels, presence, room states</li>
-        <li><b>WebRTC</b> • P2P live video and media streaming handshakes</li>
-        <li><b>Security &amp; Auth</b> • JWT authentication, Better Auth, Google OAuth, CORS, IDOR prevention</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗄️ Database, Cloud &amp; Tools</h4>
-      <ul>
-        <li><b>MongoDB &amp; Mongoose</b> • Document modeling, aggregation pipelines, indexing</li>
-        <li><b>PostgreSQL (Neon) &amp; Prisma</b> • Relational schemas, migrations, tenant isolation</li>
-        <li><b>Three.js &amp; WebGL</b> • 3D scene graphs, lighting shaders, GPU tier detection</li>
-        <li><b>Developer Tooling</b> • Git, GitHub, VS Code, Postman, Bruno, Figma</li>
-        <li><b>Deployment &amp; Hosting</b> • Vercel, Render, Cloudinary, Netlify</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## Technology
 
-<br/>
+<div align="center">
 
-<!-- 04. FEATURED PROJECTS -->
-## 🚀 Featured Projects
+**Languages**
 
-A curated selection of real-world products, architecture experiments, and production platforms built with verified codebases and live deployments.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/>
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Platform & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## Featured Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix">
-        <img src="assets/card-skillfinix.svg" alt="Skillfinix — Peer-to-Peer Learning Platform" width="100%" />
+        <img src="assets/card-skillfinix.svg" alt="Skillfinix" width="100%" />
       </a>
-      <br/>
-      <b>Skillfinix</b> • <i>Collaborative Peer-to-Peer Skill Exchange Platform</i>
-      <br/><br/>
-      Bidirectional learning marketplace connecting students and mentors. Features algorithmic skill matching, real-time Socket.io chat rooms with typing indicators, and WebRTC live video sessions.
-      <br/><br/>
-      <b>Stack:</b> React, Node.js, Express.js, MongoDB, Socket.io, WebRTC, JWT, Tailwind CSS  
-      <br/>
-      🔗 <b>Links:</b> <a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix">GitHub Repository</a> • <a href="https://skillfinix.vercel.app">Live Application</a>
+      <h3>Skillfinix</h3>
+      <p><i>Collaborative peer-to-peer skill exchange</i></p>
+      <p>Algorithmic skill matching, real-time chat, and WebRTC sessions in a focused learning marketplace.</p>
+      <p><b>React · Node.js · MongoDB · Socket.IO · WebRTC</b></p>
+      <p><a href="https://github.com/Sanjeev-Chakaravarthy/Skillfinix">Repository</a> · <a href="https://skillfinix.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Sanjeev-Chakaravarthy/PG-Finder">
-        <img src="assets/card-pgfinder.svg" alt="PG Finder — Accommodation Discovery Platform" width="100%" />
+        <img src="assets/card-pgfinder.svg" alt="PG Finder" width="100%" />
       </a>
-      <br/>
-      <b>PG Finder</b> • <i>Student Accommodation &amp; Paying Guest Discovery Hub</i>
-      <br/><br/>
-      Full-stack property platform enabling university students to locate and inspect verified accommodations by proximity, pricing, and amenities with zero broker fees.
-      <br/><br/>
-      <b>Stack:</b> React, Node.js, Express.js, MongoDB, REST APIs, Tailwind CSS, Vercel  
-      <br/>
-      🔗 <b>Links:</b> <a href="https://github.com/Sanjeev-Chakaravarthy/PG-Finder">GitHub Repository</a> • <a href="https://pg-finder-pink.vercel.app">Live Application</a>
+      <h3>PG Finder</h3>
+      <p><i>Student accommodation discovery</i></p>
+      <p>A broker-free accommodation platform for finding verified PGs by location, price, and amenities.</p>
+      <p><b>React · Express · MongoDB · REST APIs · Tailwind</b></p>
+      <p><a href="https://github.com/Sanjeev-Chakaravarthy/PG-Finder">Repository</a> · <a href="https://pg-finder-pink.vercel.app">Live demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Sanjeev-Chakaravarthy/Verio-Secure-Financial-Extraction-Verification">
-        <img src="assets/card-verio.svg" alt="Verio — Financial Ledger Extraction Engine" width="100%" />
+        <img src="assets/card-verio.svg" alt="Verio" width="100%" />
       </a>
-      <br/>
-      <b>Verio</b> • <i>Workspace-Isolated Financial Transaction Extractor</i>
-      <br/><br/>
-      High-assurance transaction parser converting raw bank SMS messages and statements into structured double-entry ledgers with confidence scoring and database-enforced multi-tenant isolation.
-      <br/><br/>
-      <b>Stack:</b> Next.js 15, TypeScript, Hono, Neon PostgreSQL, Prisma ORM, Better Auth  
-      <br/>
-      🔗 <b>Links:</b> <a href="https://github.com/Sanjeev-Chakaravarthy/Verio-Secure-Financial-Extraction-Verification">GitHub Repository</a> • <a href="https://verio-secure-financial-extraction-v.vercel.app">Live Application</a>
+      <h3>Verio</h3>
+      <p><i>Secure financial transaction extraction</i></p>
+      <p>Workspace-isolated transaction parsing with confidence scoring and database-enforced tenant isolation.</p>
+      <p><b>Next.js · TypeScript · Hono · PostgreSQL · Prisma</b></p>
+      <p><a href="https://github.com/Sanjeev-Chakaravarthy/Verio-Secure-Financial-Extraction-Verification">Repository</a> · <a href="https://verio-secure-financial-extraction-v.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://wibuilt.com">
-        <img src="assets/card-wibuilt.svg" alt="WIBUILT — Creative 3D Studio Platform" width="100%" />
+        <img src="assets/card-wibuilt.svg" alt="WIBUILT" width="100%" />
       </a>
-      <br/>
-      <b>WIBUILT</b> • <i>Creative Web Studio &amp; Interactive 3D WebGL Platform</i>
-      <br/><br/>
-      Commercial product studio featuring interactive Three.js 3D asset visualizers, dynamic client GPU tier profiling (high/medium/low adaptive LOD), and fluid 60fps rendering pipelines.
-      <br/><br/>
-      <b>Stack:</b> Next.js, Three.js, React, TypeScript, Tailwind CSS, Framer Motion  
-      <br/>
-      🔗 <b>Links:</b> <a href="https://wibuilt.com">Studio Website (Live)</a> • <i>Client Repository (Private)</i>
+      <h3>WIBUILT</h3>
+      <p><i>Creative WebGL & 3D studio</i></p>
+      <p>Adaptive Three.js experiences with GPU-aware rendering pipelines and fluid 60fps interactions.</p>
+      <p><b>Next.js · Three.js · React · TypeScript · Framer Motion</b></p>
+      <p><a href="https://wibuilt.com">Live studio</a> · <i>Private client repository</i></p>
     </td>
   </tr>
 </table>
 
-<br/>
+## Education
 
-<!-- 05. EDUCATION -->
-## 🎓 Education
+**B.Tech in Computer Science & Engineering** — *Software Product Engineering*  
+**Lovely Professional University × Kalvium** · 2024–2028 · Jalandhar, Punjab  
+**CGPA: 9.13 / 10.0**
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>B.Tech in Computer Science and Engineering</h3>
-      <b>Specialization in Software Product Engineering</b><br/>
-      <b>Lovely Professional University (LPU)</b> in collaboration with <b>Kalvium</b><br/>
-      <i>Period: 2024 – 2028 • Jalandhar, Punjab, India</i><br/>
-      <b>Academic Standing:</b> CGPA <b>9.13 / 10.0</b> (Verified Official Record)
-      <br/><br/>
-      <ul>
-        <li><b>Core Curriculum:</b> Data Structures &amp; Algorithms, Object-Oriented Software Design, Operating Systems, Database Management Systems, Computer Networks.</li>
-        <li><b>Industry Immersion:</b> Work-integrated Software Product Engineering program emphasizing full-stack development, code craftsmanship, continuous delivery, and product architecture.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## Recognition
 
-<br/>
+- 🥈 **Runner-up — Code-A-Hunt 2.0**, Lovely Professional University
+- 🎓 **Kalvium Industry Program Scholar**, Software Product Engineering fellowship
+- 🚀 **Founder & Engineering Lead — WIBUILT**, digital products and WebGL experiences
 
-<!-- 06. ACHIEVEMENTS & CERTIFICATIONS -->
-## 🏆 Verified Achievements &amp; Recognition
-
-* 🥈 **Runner-up — Code-A-Hunt 2.0 (Lovely Professional University)**  
-  Ranked among top performers in an intensive university-wide competitive programming and algorithmic problem-solving challenge.
-* 🎓 **Kalvium Industry Program Scholar**  
-  Selected for the rigorous Kalvium Software Product Engineering fellowship, focusing on real-world engineering standards and agile development.
-* 🚀 **Founder &amp; Engineering Lead — WiBuilt**  
-  Spearheaded design and full-stack development for digital platforms, interactive 3D WebGL experiences, and institutional workflow automation.
-
-<br/>
-
-<!-- 07. GITHUB CONTRIBUTION GRAPH -->
-## 📈 Contribution Activity &amp; Heatmap
-
-<p align="center">
-  <a href="https://github.com/Sanjeev-Chakaravarthy">
-    <img src="assets/sanjeev-contributions.svg" alt="Sanjeev Chakaravarthy GitHub Contribution Calendar" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <sub><i>Telemetry verified directly from GitHub GraphQL API: 409 verified contributions across 53 weeks.</i></sub>
-</p>
-
-<br/>
-
-<!-- 08. GITHUB STATISTICS -->
-## 📊 Engineering Statistics &amp; Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanjeev-Chakaravarthy&show_icons=true&title_color=E5B5C7&text_color=C77B9B&icon_color=C77B9B&bg_color=09090B&border_color=451126&hide_border=false" alt="Sanjeev Chakaravarthy GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sanjeev-Chakaravarthy&layout=compact&title_color=E5B5C7&text_color=C77B9B&bg_color=09090B&border_color=451126&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanjeev-Chakaravarthy&theme=dark&background=09090B&border=451126&stroke=701A3D&ring=C77B9B&fire=C77B9B&currStreakNum=FAF7F9&sideNums=FAF7F9&currStreakLabel=C77B9B&sideLabels=C77B9B&dates=FAF7F9" alt="GitHub Streak Stats" width="97%" />
-</p>
-
-<br/>
-
-<!-- 09. CONNECT WITH ME -->
-## 🌍 Connect &amp; Collaborate
-
-Open for engineering internships, collaborative open-source ventures, and innovative software development challenges. Let's connect!
-
-<br/>
+## GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sanjeev-m-s-908188325/">
-    <img src="assets/badge-linkedin.svg" alt="LinkedIn — Sanjeev MS" width="210" />
-  </a>
-  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanjeev-Chakaravarthy&show_icons=true&title_color=C77B9B&text_color=C9C9D3&icon_color=C77B9B&bg_color=09090B&border_color=451126&hide_border=false" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sanjeev-Chakaravarthy&layout=compact&title_color=C77B9B&text_color=C9C9D3&bg_color=09090B&border_color=451126&hide_border=false" width="49%" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanjeev-Chakaravarthy&theme=dark&background=09090B&border=451126&stroke=701A3D&ring=C77B9B&fire=C77B9B&currStreakNum=FAF7F9&sideNums=FAF7F9&currStreakLabel=C77B9B&sideLabels=C77B9B&dates=FAF7F9" width="97%" alt="GitHub streak" />
+</div>
+
+<div align="center">
   <a href="https://github.com/Sanjeev-Chakaravarthy">
-    <img src="assets/badge-github.svg" alt="GitHub — Sanjeev-Chakaravarthy" width="210" />
-  </a>
-  &nbsp;
-  <a href="mailto:sanjeev.ms28122@gmail.com">
-    <img src="assets/badge-email.svg" alt="Email — Sanjeev MS" width="210" />
-  </a>
-  &nbsp;
-  <a href="https://wibuilt.com">
-    <img src="assets/badge-portfolio.svg" alt="Portfolio & Studio — WIBUILT" width="210" />
+    <img src="assets/sanjeev-contributions.svg" alt="GitHub contribution activity" width="100%" />
   </a>
 </div>
 
-<br/>
+## Let's Build
 
-<!-- 10. CUSTOM ANIMATED FOOTER -->
+Open to **engineering internships**, meaningful collaborations, and ambitious product challenges.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-m-s-908188325/)
+[![Portfolio](https://img.shields.io/badge/WIBUILT-C77B9B?style=for-the-badge&logo=safari&logoColor=white)](https://wibuilt.com)
+[![Email](https://img.shields.io/badge/Email-E5B5C7?style=for-the-badge&logo=gmail&logoColor=09090B)](mailto:sanjeev.ms28122@gmail.com)
+
 <div align="center">
-  <img src="assets/sanjeev-footer.svg" alt="Sanjeev Chakaravarthy — Portfolio Footer" width="100%" />
+  <img src="assets/sanjeev-footer.svg" alt="Sanjeev Chakaravarthy" width="100%" />
 </div>
